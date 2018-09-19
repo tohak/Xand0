@@ -1,0 +1,6 @@
+{"pole":[[" X "," X "," 0 "],[" 0 "," X "," 0 "],["   "," X ","   "]],"userName":["www","qqq"],"victoryName":"www"}
+{"pole":[[" X "," X "," X "],[" 0 "," 0 ","   "],["   ","   ","   "]],"userName":["eee","rrr"],"victoryName":"eee"}
+{"pole":[["   "," 0 "," X "],["   "," X "," 0 "],[" X ","   ","   "]],"userName":["ццц","ммм"],"victoryName":"ммм"}
+{"pole":[[" X "," X "," X "],[" 0 "," 0 ","   "],["   ","   ","   "]],"userName":["jjj","bbb"],"victoryName":"bbb"}
+{"pole":[[" X "," X "," X "],[" 0 "," 0 ","   "],["   ","   ","   "]],"userName":["ooo","vvv"],"victoryName":"vvv"}
+{"pole":[[" X "," X "," X "],[" 0 "," 0 ","   "],["   ","   ","   "]],"userName":["test","test2"],"victoryName":"test2"}
